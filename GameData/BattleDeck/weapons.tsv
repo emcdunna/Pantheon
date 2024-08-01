@@ -1,0 +1,23 @@
+Weapon	Melee	Ranged	Shock	Evade	Shield	Spear	Hands	Type	Unity Type	Weapon Card	Special Rule
+Spear	2	0	0	-1	0	3	1	Melee	Infantry	spearwall	None
+Lance	0	0	2	-1	0	0	1	Melee	Mounted	charge	None
+Mace	2	0	0	0	0	0	1	Melee	Any	advance	Armor Piercing
+Hand axe	3	0	0	0	0	0	1	Melee	Any	advance	Shield Breaker
+Sword	3	0	0	0	0	0	1	Melee	Any	advance	Parry
+Pike	1	0	0	-2	0	4	2	Melee	Infantry	spearwall	None
+Great Axe	4	0	0	-1	0	0	2	Melee	Infantry	advance	Shield Breaker
+Great Sword	4	0	0	-1	0	0	2	Melee	Infantry	advance	None
+Glaive	4	0	0	-1	0	1	2	Melee	Infantry	advance	None
+Pole Axe	3	0	0	-1	0	0	2	Melee	Infantry	advance	Armor Piercing
+Halberd	3	0	0	-1	0	2	2	Melee	Infantry	push	None
+Javelin	0	2	0	3	0	0	1	Ranged	Any	skirmish	Shield Breaker
+Sling	0	2	0	4	0	0	1	Ranged	Infantry	volley	None
+Composite bow	0	3	0	2	0	0	2	Ranged	Any	volley	None
+Bow	0	3	0	2	0	0	2	Ranged	Any	volley	None
+Crossbow	0	4	0	1	0	0	2	Ranged	Infantry	volley	None
+Heavy Crossbow	0	3	0	0	0	0	2	Ranged	Infantry	volley	Armor Piercing
+Throwing axe	0	1	0	0	0	0	1	Ranged	Any	attack	None
+Small shield	0	0	0	0	2	0	1	Shield	Any	retreat	Parry
+Large shield	0	0	0	-1	3	0	1	Shield	Any	shields_up	Parry
+Pavise shield	0	0	0	-3	4	-3	1	Shield	Infantry	shields_up	None
+None	0	0	0	0	0	0	0	None	Any		None

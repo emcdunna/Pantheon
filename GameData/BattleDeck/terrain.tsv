@@ -1,0 +1,12 @@
+Terrain	Swords	Shock	Arrows	Evasion	Spears	Shields	Morale	Impassible
+Field	0	0	0	0	0	0	0	FALSE
+Forest	0	-2	-1	1	0	0	0	FALSE
+Stream	-1	0	0	0	0	0	0	FALSE
+Hills	-1	-1	1	0	0	0	0	FALSE
+Town	0	-1	-1	1	0	0	0	FALSE
+Sand	-1	-1	0	-2	-1	0	0	FALSE
+Bridge	-1	-2	0	-2	0	0	0	FALSE
+Swamp	0	0	0	0	0	0	0	TRUE
+Cliff	0	0	0	0	0	0	0	TRUE
+River	0	0	0	0	0	0	0	TRUE
+Sea	0	0	0	0	0	0	0	TRUE

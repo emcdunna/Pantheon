@@ -1,0 +1,9 @@
+Name	Armor bonus	Armor type	Evade	Iron	Textiles	Heat
+Padded armor	1	Body	0	0	15	4
+Iron helm	1	Helmet	0	5	0	1
+Great helm	2	Helmet	-1	10	5	3
+Lamellar armor	2	Body	0	5	20	1
+Chain-mail	3	Body	-1	10	10	2
+Brigandine	4	Body	-1	20	10	3
+Plate armor	5	Body	-2	35	10	4
+None	0	None	0	0	0	0

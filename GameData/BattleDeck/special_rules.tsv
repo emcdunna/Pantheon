@@ -1,0 +1,21 @@
+Unit Rule	Type	Morale bonus	Damage bonus	Heat bonus	Terrain bonus
+Untrained	Experience	-2	0	0	0
+Trained	Experience	0	0	0	0
+Veteran	Experience	4	1	0	0
+Elite	Experience	5	2	0	0
+Mercenary	Recruitment	-2	0	0	0
+Volunteer	Recruitment	3	0	0	0
+Militia	Recruitment	0	0	0	0
+Conscript	Recruitment	-3	0	0	0
+Professional	Recruitment	6	0	0	0
+Run_Amuck	Behavior	0	0	0	0
+Easy_Difficulty	Difficulty	-3	0	0	0
+Hard_Difficulty	Difficulty	3	0	0	0
+Very_Hard_Difficulty	Difficulty	3	1	0	0
+Desert_Warriors	Culture	0	0	3	0
+Terrain_Experts	Culture	0	0	0	1
+Armor Piercing	Weapon	0	0	0	0
+Slow Reload	Weapon	0	0	0	0
+Parry	Weapon	0	0	0	0
+Shield Breaker	Weapon	0	0	0	0
+None	None	0	0	0	0

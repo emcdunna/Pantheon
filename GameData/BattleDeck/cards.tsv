@@ -1,0 +1,33 @@
+Card id	Card Name	Type	Swords	Shock	Arrows	Evasion	Spears	Shields	Fear	Banners	Cross Attack	Strike Back
+advance	Advance	Base	2	0	0	0	0	0	0	0	FALSE	FALSE
+charge	Charge	Base	0	2	0	0	0	0	0	0	FALSE	FALSE
+volley	Volley	Base	0	0	2	0	0	0	0	0	FALSE	FALSE
+retreat	Retreat	Base	0	0	0	2	0	0	0	0	FALSE	FALSE
+spearwall	Spearwall	Base	0	0	0	0	2	0	0	0	FALSE	FALSE
+shields_up	Shields Up	Base	0	0	0	0	0	2	0	0	FALSE	FALSE
+skirmish	Skirmish	Base	0	0	1	1	0	0	0	0	FALSE	FALSE
+pursue	Pursue	Base	0	1	0	0	0	1	0	0	FALSE	FALSE
+push	Push	Base	1	0	0	0	1	0	0	0	FALSE	FALSE
+envelop	Envelop	Base	1	1	0	0	0	0	0	0	FALSE	FALSE
+attack	Attack	Base	1	0	1	0	0	0	0	0	FALSE	FALSE
+rush	Rush	Base	0	1	1	0	0	0	0	0	FALSE	FALSE
+relentless_advance	Relentless Advance	Strength	3	0	0	0	0	0	0	0	FALSE	FALSE
+thunderous_charge	Thunderous Charge	Strength	0	3	0	0	0	0	0	0	FALSE	FALSE
+overwhelming_volley	Overwhelming Volley	Strength	0	0	3	0	0	0	0	0	FALSE	FALSE
+avoid_and_evade	Avoid and Evade	Strength	0	0	0	3	0	0	0	0	FALSE	FALSE
+phalanx	Phalanx	Strength	0	0	0	0	3	0	0	0	FALSE	FALSE
+testudo	Testudo	Strength	0	0	0	0	0	3	0	0	FALSE	FALSE
+assault	Assault	Tactic	1	1	1	0	0	0	0	0	FALSE	FALSE
+hold_the_line	Hold the Line	Tactic	0	0	0	1	1	1	0	1	FALSE	FALSE
+feigned_retreat	Feigned Retreat	Tactic	0	0	0	3	0	0	0	0	FALSE	TRUE
+ambush	Ambush	Tactic	0	0	1	1	1	0	1	0	FALSE	TRUE
+schiltrom	Schiltrom	Tactic	0	0	0	0	3	0	0	0	FALSE	TRUE
+hit_and_run	Hit and Run	Tactic	0	0	2	2	0	0	0	0	FALSE	FALSE
+cycle_charge	Cycle Charge	Tactic	0	2	0	2	0	0	0	0	FALSE	FALSE
+shieldwall	Shieldwall	Tactic	2	0	0	0	0	2	0	0	FALSE	FALSE
+outflank	Outflank	Tactic	2	2	0	0	0	0	0	0	FALSE	FALSE
+oblique_order	Oblique Order	Strategy	2	0	0	0	0	0	0	0	TRUE	FALSE
+false_gap	False Gap	Strategy	0	2	0	0	0	0	0	0	TRUE	FALSE
+supporting_fire	Supporting Fire	Strategy	0	0	2	0	0	0	0	0	TRUE	FALSE
+reinforcements	Reinforcements	Psychology	0	0	0	0	0	0	0	1	FALSE	FALSE
+war_cry	War Cry	Psychology	0	0	0	0	0	0	2	1	FALSE	FALSE

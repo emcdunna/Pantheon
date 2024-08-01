@@ -1,0 +1,1586 @@
+Loaded 155 Settlements. 
+Read 127 nomad regions. 
+Read province terrain defaults.
+Read Settlement terrain lines.
+Read 10 populations. 
+Read 28 resources
+Read 70 Buildings.
+There are 0 settlements that are not out of buildings. 
+Wrote 3444 Settlement buildings
+----------------------------------------------------------------------------------------------------
+Aethunding: 
+7 Nomadic regions.
+Traits: Mountain folk, Sheep, Reindeer, Mining, Jewelry, Iron working, Beer, Candles, Shoes.
+	* Unity: 1
+	* Advancement: 9
+	* Isolationism: 1
+	* Independence: 1
+312 Peasants
+147 Craftsmen
+102 Workers
+3 Nomads
+Generally Cold highlands
+Temp: 2.57, Prec: 3.71, Fields: 4.71, Woods: 3.71, Hills: 10.43, Mountains: 3.57, Deserts: 1.43, Wetlands: 0.57
+Market:
+	* Food: 272
+	* TradeGoods: 1234
+	* LuxuryGoods: -137
+	* Iron: 0
+	* Textiles: -100
+	* Wood: -175
+	* Equipment: 620
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 190
+	* PreciousMaterials: -290
+
+Buildings:
+   	* Brewery: 5
+   	* Jeweler: 41
+   	* Gold Mine: 4
+   	* Silver Mine: 1
+   	* Stone Mine: 19
+   	* Mountain foragers: 1
+   	* Highland foragers: 2
+   	* Reindeer herd: 104
+   	* Cobbler: 48
+   	* Leather Tanner: 7
+   	* Potter: 39
+   	* Weaver: 7
+   	* Nomadic Woodcutter: 30
+
+----------------------------------------------------------------------------------------------------
+Alyrian: 
+8 Settled regions.
+Traits: Camels, Construction, Corn, Cow, Fishing, Horses, Linen, Llamas, Mining, Nobility, Pigs, Sorghum, Spices, Tobacco, Trading, Wheat, Wine, Masonry, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Rugs, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 36
+	* Isolationism: -6
+	* Independence: 0
+449 Peasants
+81 Craftsmen
+111 Workers
+Generally Warm flatland
+Temp: 6.75, Prec: 4.0, Fields: 12.38, Woods: 4.0, Hills: 3.5, Mountains: 2.62, Deserts: 2.62, Wetlands: 0.88
+Market:
+	* Food: 112
+	* TradeGoods: -394
+	* LuxuryGoods: -185
+	* Iron: 45
+	* Textiles: 305
+	* Wood: 205
+	* Equipment: 425
+	* Horses: 520
+	* Camels: 80
+	* Elephants: 0
+	* Stone: 110
+	* PreciousMaterials: 70
+
+Buildings:
+   	* Brewery: 5
+   	* Camel herd: 4
+   	* Candlemaker: 1
+   	* Wood cutter: 24
+   	* Corn Farm: 33
+   	* Cow Herd: 5
+   	* Fishing Warf: 9
+   	* Glass maker: 14
+   	* Horse Herd: 26
+   	* Blacksmith: 3
+   	* Jeweler: 3
+   	* Flax Farm: 2
+   	* Llama herd: 40
+   	* Iron Mine: 5
+   	* Silver Mine: 5
+   	* Stone Mine: 11
+   	* Pig farm: 2
+   	* Rug Maker: 12
+   	* Cobbler: 18
+   	* Sorghum Farm: 3
+   	* Tobacco Farm: 3
+   	* Wheat Farm: 3
+   	* Vineyard: 6
+   	* Leather Tanner: 7
+   	* Potter: 18
+
+----------------------------------------------------------------------------------------------------
+Andaric: 
+14 Settled regions.
+Traits: Construction, Cow, Fishing, Goats, Horses, Linen, Mining, Nobility, Pigs, Potatoes, Sheep, Ship Building, Trading, Wheat, Wine, Masonry, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 34
+	* Isolationism: -6
+	* Independence: 0
+787 Peasants
+246 Workers
+231 Craftsmen
+Generally Temperate flatland
+Temp: 4.43, Prec: 5.5, Fields: 10.0, Woods: 5.5, Hills: 5.36, Mountains: 2.14, Deserts: 0.07, Wetlands: 1.86
+Market:
+	* Food: -19
+	* TradeGoods: 185
+	* LuxuryGoods: -223
+	* Iron: -65
+	* Textiles: 305
+	* Wood: 650
+	* Equipment: 1825
+	* Horses: 480
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 130
+	* PreciousMaterials: -35
+
+Buildings:
+   	* Brewery: 12
+   	* Candlemaker: 5
+   	* Wood cutter: 78
+   	* Cow Herd: 41
+   	* Fishing Warf: 19
+   	* Glass maker: 47
+   	* Goat Herd: 17
+   	* Horse Herd: 24
+   	* Blacksmith: 23
+   	* Jeweler: 17
+   	* Flax Farm: 21
+   	* Gold Mine: 1
+   	* Iron Mine: 11
+   	* Silver Mine: 4
+   	* Gemstone Mine: 1
+   	* Stone Mine: 13
+   	* Pig farm: 12
+   	* Potato Farm: 25
+   	* Sheep Herd: 17
+   	* Cobbler: 42
+   	* Wheat Farm: 25
+   	* Vineyard: 33
+   	* Leather Tanner: 30
+   	* Potter: 52
+   	* Weaver: 3
+
+----------------------------------------------------------------------------------------------------
+Arani: 
+10 Settled regions.
+Traits: Camels, Construction, Corn, Cow, Fishing, Horses, Linen, Mining, Nobility, Sheep, Ship Building, Sorghum, Trading, Wheat, Wine, Masonry, Jewelry, Iron working, Communal Gathering, Glass, Prostitution, Public Bathing, Rugs, Shoes, Trading, Coffee.
+	* Unity: 4
+	* Advancement: 34
+	* Isolationism: -6
+	* Independence: 0
+546 Peasants
+80 Workers
+120 Craftsmen
+Generally Warm dry flatland
+Temp: 7.2, Prec: 2.9, Fields: 12.1, Woods: 2.9, Hills: 2.8, Mountains: 0.4, Deserts: 5.4, Wetlands: 0.9
+Market:
+	* Food: 118
+	* TradeGoods: -137
+	* LuxuryGoods: -111
+	* Iron: -75
+	* Textiles: -75
+	* Wood: 120
+	* Equipment: 555
+	* Horses: 600
+	* Camels: 620
+	* Elephants: 0
+	* Stone: 30
+	* PreciousMaterials: -40
+
+Buildings:
+   	* Camel herd: 31
+   	* Wood cutter: 34
+   	* Corn Farm: 26
+   	* Cow Herd: 5
+   	* Fishing Warf: 14
+   	* Glass maker: 28
+   	* Horse Herd: 30
+   	* Blacksmith: 9
+   	* Jeweler: 4
+   	* Flax Farm: 3
+   	* Iron Mine: 1
+   	* Stone Mine: 3
+   	* Rug Maker: 12
+   	* Sheep Herd: 12
+   	* Cobbler: 14
+   	* Sorghum Farm: 32
+   	* Wheat Farm: 3
+   	* Vineyard: 7
+   	* Leather Tanner: 5
+   	* Potter: 47
+   	* Weaver: 1
+
+----------------------------------------------------------------------------------------------------
+Brythonic: 
+15 Nomadic regions.
+Traits: Cow, Forest folk, Goats, Horses, Linen, Potatoes, Mining, Jewelry, Iron working, Beer, Candles, Shoes.
+	* Unity: 1
+	* Advancement: 12
+	* Isolationism: 1
+	* Independence: 1
+553 Peasants
+215 Craftsmen
+129 Workers
+73 Nomads
+Generally Cold forest
+Temp: 3.6, Prec: 5.6, Fields: 6.8, Woods: 5.6, Hills: 3.87, Mountains: 1.47, Deserts: 2.93, Wetlands: 0.87
+Market:
+	* Food: -83
+	* TradeGoods: 897
+	* LuxuryGoods: -445
+	* Iron: 50
+	* Textiles: 55
+	* Wood: -10
+	* Equipment: 1135
+	* Horses: 540
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 150
+	* PreciousMaterials: -510
+
+Buildings:
+   	* Brewery: 7
+   	* Candlemaker: 1
+   	* Cow Herd: 50
+   	* Forest hunters: 73
+   	* Goat Herd: 10
+   	* Horse Herd: 27
+   	* Blacksmith: 1
+   	* Jeweler: 58
+   	* Flax Farm: 27
+   	* Gold Mine: 2
+   	* Iron Mine: 4
+   	* Silver Mine: 1
+   	* Stone Mine: 15
+   	* Potato Farm: 46
+   	* Cobbler: 68
+   	* Leather Tanner: 21
+   	* Potter: 45
+   	* Weaver: 14
+   	* Nomadic Woodcutter: 63
+
+----------------------------------------------------------------------------------------------------
+Derjian: 
+9 Nomadic regions.
+Traits: Camels, Desert folk, Sorghum, Mining, Jewelry, Iron working, Rugs, Shoes.
+	* Unity: 1
+	* Advancement: 8
+	* Isolationism: 1
+	* Independence: 1
+232 Peasants
+71 Craftsmen
+36 Workers
+140 Nomads
+Generally Hot dry desert
+Temp: 9.33, Prec: 1.67, Fields: 5.22, Woods: 1.67, Hills: 2.0, Mountains: 0.89, Deserts: 15.56, Wetlands: 0.0
+Market:
+	* Food: 271
+	* TradeGoods: 90
+	* LuxuryGoods: 57
+	* Iron: 0
+	* Textiles: -270
+	* Wood: -175
+	* Equipment: 120
+	* Horses: 0
+	* Camels: 560
+	* Elephants: 0
+	* Stone: 50
+	* PreciousMaterials: -160
+
+Buildings:
+   	* Camel herd: 28
+   	* Desert foragers: 140
+   	* Jeweler: 16
+   	* Salt Mine: 3
+   	* Stone Mine: 5
+   	* Rug Maker: 15
+   	* Cobbler: 12
+   	* Sorghum Farm: 37
+   	* Potter: 28
+   	* Nomadic Woodcutter: 12
+
+----------------------------------------------------------------------------------------------------
+Draekoni: 
+13 Nomadic regions.
+Traits: Chickens, Elephant taming, Mountain folk, Pigs, Mining, Iron working, Beer, Rugs, Shoes, Coffee, Cocoa.
+	* Unity: 1
+	* Advancement: 12
+	* Isolationism: 1
+	* Independence: 1
+520 Peasants
+95 Craftsmen
+140 Workers
+21 Nomads
+Generally Warm wet highlands
+Temp: 6.92, Prec: 7.69, Fields: 3.15, Woods: 7.69, Hills: 6.77, Mountains: 3.62, Deserts: 0.0, Wetlands: 3.69
+Market:
+	* Food: -33
+	* TradeGoods: 80
+	* LuxuryGoods: 29
+	* Iron: 85
+	* Textiles: -330
+	* Wood: 55
+	* Equipment: 340
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 39
+	* Stone: 110
+	* PreciousMaterials: 785
+
+Buildings:
+   	* Brewery: 27
+   	* Chicken farm: 40
+   	* Elephant tamer: 39
+   	* Blacksmith: 2
+   	* Gold Mine: 6
+   	* Iron Mine: 7
+   	* Silver Mine: 1
+   	* Gemstone Mine: 1
+   	* Stone Mine: 11
+   	* Mountain foragers: 21
+   	* Pig farm: 35
+   	* Rug Maker: 5
+   	* Cobbler: 27
+   	* Potter: 34
+   	* Cocoa farm: 33
+   	* Coffee farm: 21
+   	* Nomadic Woodcutter: 62
+
+----------------------------------------------------------------------------------------------------
+East Tauran: 
+6 Settled regions.
+Traits: Construction, Corn, Cow, Fishing, Goats, Horses, Linen, Mining, Nobility, Pigs, Potatoes, Sheep, Trading, Wheat, Wine, Masonry, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Rugs, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 34
+	* Isolationism: -6
+	* Independence: 0
+326 Peasants
+83 Workers
+70 Craftsmen
+Generally Temperate flatland
+Temp: 4.0, Prec: 5.0, Fields: 11.17, Woods: 5.0, Hills: 4.33, Mountains: 1.83, Deserts: 2.5, Wetlands: 1.0
+Market:
+	* Food: 77
+	* TradeGoods: -191
+	* LuxuryGoods: -139
+	* Iron: 0
+	* Textiles: 255
+	* Wood: 260
+	* Equipment: 420
+	* Horses: 240
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 40
+	* PreciousMaterials: 35
+
+Buildings:
+   	* Brewery: 4
+   	* Candlemaker: 1
+   	* Wood cutter: 25
+   	* Corn Farm: 15
+   	* Cow Herd: 22
+   	* Fishing Warf: 1
+   	* Glass maker: 9
+   	* Goat Herd: 11
+   	* Horse Herd: 12
+   	* Blacksmith: 6
+   	* Jeweler: 3
+   	* Flax Farm: 14
+   	* Gold Mine: 1
+   	* Iron Mine: 4
+   	* Silver Mine: 2
+   	* Stone Mine: 4
+   	* Pig farm: 1
+   	* Potato Farm: 8
+   	* Rug Maker: 14
+   	* Sheep Herd: 2
+   	* Cobbler: 9
+   	* Wheat Farm: 5
+   	* Vineyard: 3
+   	* Leather Tanner: 6
+   	* Potter: 17
+   	* Weaver: 1
+
+----------------------------------------------------------------------------------------------------
+Findaric: 
+9 Settled regions.
+Traits: Construction, Corn, Cow, Fishing, Goats, Horses, Linen, Mining, Nobility, Pigs, Sheep, Ship Building, Sorghum, Tobacco, Trading, Wheat, Wine, Masonry, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Rugs, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 37
+	* Isolationism: -6
+	* Independence: 0
+523 Peasants
+80 Craftsmen
+114 Workers
+Generally Temperate flatland
+Temp: 5.67, Prec: 5.0, Fields: 11.89, Woods: 5.0, Hills: 4.44, Mountains: 0.89, Deserts: 1.44, Wetlands: 1.33
+Market:
+	* Food: 191
+	* TradeGoods: -393
+	* LuxuryGoods: -152
+	* Iron: -100
+	* Textiles: 305
+	* Wood: 730
+	* Equipment: 905
+	* Horses: 400
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 40
+	* PreciousMaterials: 20
+
+Buildings:
+   	* Brewery: 3
+   	* Candlemaker: 1
+   	* Wood cutter: 45
+   	* Corn Farm: 19
+   	* Cow Herd: 22
+   	* Fishing Warf: 7
+   	* Glass maker: 7
+   	* Goat Herd: 2
+   	* Horse Herd: 20
+   	* Blacksmith: 13
+   	* Jeweler: 2
+   	* Flax Farm: 10
+   	* Iron Mine: 2
+   	* Silver Mine: 2
+   	* Stone Mine: 4
+   	* Pig farm: 11
+   	* Rug Maker: 11
+   	* Sheep Herd: 24
+   	* Cobbler: 17
+   	* Sorghum Farm: 5
+   	* Tobacco Farm: 10
+   	* Wheat Farm: 11
+   	* Vineyard: 13
+   	* Leather Tanner: 14
+   	* Potter: 12
+
+----------------------------------------------------------------------------------------------------
+Gaeltic: 
+7 Nomadic regions.
+Traits: Goats, Mountain folk, Potatoes, Reindeer, Sheep, Mining, Jewelry, Iron working, Beer, Candles, Shoes.
+	* Unity: 1
+	* Advancement: 11
+	* Isolationism: 1
+	* Independence: 1
+225 Peasants
+151 Workers
+110 Craftsmen
+10 Nomads
+Generally Cold wet highlands
+Temp: 2.29, Prec: 6.57, Fields: 2.57, Woods: 6.57, Hills: 7.0, Mountains: 6.14, Deserts: 0.29, Wetlands: 1.57
+Market:
+	* Food: -22
+	* TradeGoods: 402
+	* LuxuryGoods: -66
+	* Iron: 0
+	* Textiles: -85
+	* Wood: 160
+	* Equipment: 300
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 260
+	* PreciousMaterials: -175
+
+Buildings:
+   	* Brewery: 10
+   	* Candlemaker: 7
+   	* Goat Herd: 8
+   	* Jeweler: 37
+   	* Gold Mine: 3
+   	* Gemstone Mine: 4
+   	* Stone Mine: 26
+   	* Mountain foragers: 10
+   	* Potato Farm: 24
+   	* Reindeer herd: 35
+   	* Cobbler: 30
+   	* Potter: 26
+   	* Nomadic Woodcutter: 52
+
+----------------------------------------------------------------------------------------------------
+Gothic: 
+9 Settled regions.
+Traits: Construction, Cow, Fishing, Goats, Horses, Linen, Mining, Nobility, Potatoes, Reindeer, Ship Building, Trading, Wheat, Masonry, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 32
+	* Isolationism: -6
+	* Independence: 0
+399 Peasants
+144 Craftsmen
+209 Workers
+Generally Cold wet forest
+Temp: 3.0, Prec: 7.22, Fields: 9.0, Woods: 7.22, Hills: 2.67, Mountains: 2.56, Deserts: 0.0, Wetlands: 2.89
+Market:
+	* Food: -73
+	* TradeGoods: -32
+	* LuxuryGoods: -233
+	* Iron: 55
+	* Textiles: 155
+	* Wood: 870
+	* Equipment: 820
+	* Horses: 260
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 20
+	* PreciousMaterials: 85
+
+Buildings:
+   	* Brewery: 2
+   	* Candlemaker: 1
+   	* Wood cutter: 69
+   	* Cow Herd: 7
+   	* Fishing Warf: 15
+   	* Glass maker: 43
+   	* Goat Herd: 2
+   	* Horse Herd: 13
+   	* Blacksmith: 8
+   	* Jeweler: 13
+   	* Flax Farm: 18
+   	* Gold Mine: 2
+   	* Iron Mine: 9
+   	* Jade Mine: 7
+   	* Silver Mine: 3
+   	* Stone Mine: 2
+   	* Potato Farm: 25
+   	* Reindeer herd: 29
+   	* Cobbler: 22
+   	* Wheat Farm: 11
+   	* Leather Tanner: 16
+   	* Potter: 38
+   	* Weaver: 1
+   	* Nomadic Woodcutter: 2
+
+----------------------------------------------------------------------------------------------------
+Haelan: 
+9 Settled regions.
+Traits: Construction, Corn, Cotton, Cow, Fishing, Horses, Linen, Mining, Nobility, Pigs, Sheep, Ship Building, Spices, Tobacco, Trading, Wheat, Wine, Jewelry, Iron working, Communal Gathering, Glass, Prostitution, Public Bathing, Rugs, Shoes, Trading, Coffee.
+	* Unity: 4
+	* Advancement: 35
+	* Isolationism: -6
+	* Independence: 0
+541 Peasants
+83 Craftsmen
+100 Workers
+Generally Warm flatland
+Temp: 6.22, Prec: 5.22, Fields: 14.56, Woods: 5.22, Hills: 2.22, Mountains: 0.22, Deserts: 1.44, Wetlands: 1.33
+Market:
+	* Food: 24
+	* TradeGoods: -231
+	* LuxuryGoods: 134
+	* Iron: -130
+	* Textiles: 320
+	* Wood: 725
+	* Equipment: 895
+	* Horses: 360
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 20
+	* PreciousMaterials: 0
+
+Buildings:
+   	* Wood cutter: 47
+   	* Corn Farm: 18
+   	* Cotton Farm: 4
+   	* Cow Herd: 13
+   	* Fishing Warf: 7
+   	* Glass maker: 9
+   	* Horse Herd: 18
+   	* Blacksmith: 13
+   	* Flax Farm: 4
+   	* Stone Mine: 2
+   	* Pig farm: 13
+   	* Rug Maker: 8
+   	* Sheep Herd: 33
+   	* Cobbler: 18
+   	* Pepper farm: 6
+   	* Tobacco Farm: 21
+   	* Wheat Farm: 7
+   	* Vineyard: 14
+   	* Leather Tanner: 13
+   	* Potter: 21
+   	* Weaver: 1
+
+----------------------------------------------------------------------------------------------------
+Heruli: 
+4 Nomadic regions.
+Traits: Pigs, Plains folk, Spices, Tobacco, Mining, Jewelry, Iron working, Rugs, Shoes, Coffee.
+	* Unity: 1
+	* Advancement: 10
+	* Isolationism: 1
+	* Independence: 1
+228 Peasants
+35 Craftsmen
+24 Workers
+2 Nomads
+Generally Temperate flatland
+Temp: 5.75, Prec: 5.5, Fields: 15.25, Woods: 5.5, Hills: 1.5, Mountains: 0.25, Deserts: 1.5, Wetlands: 1.25
+Market:
+	* Food: 125
+	* TradeGoods: 92
+	* LuxuryGoods: 361
+	* Iron: 0
+	* Textiles: -140
+	* Wood: 10
+	* Equipment: 120
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 10
+	* PreciousMaterials: -20
+
+Buildings:
+   	* Jeweler: 2
+   	* Stone Mine: 1
+   	* Pig farm: 32
+   	* Plains hunters: 2
+   	* Rug Maker: 2
+   	* Cobbler: 8
+   	* Pepper farm: 9
+   	* Tobacco Farm: 21
+   	* Leather Tanner: 2
+   	* Potter: 19
+   	* Weaver: 2
+   	* Coffee farm: 3
+   	* Nomadic Woodcutter: 21
+
+----------------------------------------------------------------------------------------------------
+Illeni: 
+10 Settled regions.
+Traits: Camels, Construction, Corn, Cotton, Cow, Fishing, Horses, Linen, Mining, Nobility, Pigs, Rice, Sheep, Ship Building, Sorghum, Spices, Tobacco, Trading, Masonry, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Rugs, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 38
+	* Isolationism: -6
+	* Independence: 0
+569 Peasants
+95 Craftsmen
+81 Workers
+Generally Warm flatland
+Temp: 7.5, Prec: 3.2, Fields: 12.8, Woods: 3.2, Hills: 2.8, Mountains: 1.5, Deserts: 4.3, Wetlands: 1.8
+Market:
+	* Food: 60
+	* TradeGoods: -331
+	* LuxuryGoods: -160
+	* Iron: -15
+	* Textiles: -65
+	* Wood: -100
+	* Equipment: 295
+	* Horses: 600
+	* Camels: 680
+	* Elephants: 0
+	* Stone: 100
+	* PreciousMaterials: -10
+
+Buildings:
+   	* Brewery: 10
+   	* Camel herd: 34
+   	* Candlemaker: 3
+   	* Wood cutter: 18
+   	* Corn Farm: 15
+   	* Cotton Farm: 2
+   	* Cow Herd: 4
+   	* Fishing Warf: 12
+   	* Glass maker: 16
+   	* Horse Herd: 30
+   	* Blacksmith: 3
+   	* Jeweler: 3
+   	* Flax Farm: 2
+   	* Mason: 1
+   	* Iron Mine: 1
+   	* Salt Mine: 1
+   	* Silver Mine: 1
+   	* Stone Mine: 12
+   	* Pig farm: 5
+   	* Rice Farm: 2
+   	* Rug Maker: 12
+   	* Sheep Herd: 6
+   	* Cobbler: 7
+   	* Sorghum Farm: 44
+   	* Pepper farm: 3
+   	* Tobacco Farm: 9
+   	* Leather Tanner: 6
+   	* Potter: 33
+   	* Weaver: 1
+
+----------------------------------------------------------------------------------------------------
+Isenic: 
+8 Nomadic regions.
+Traits: Llamas, Chickens, Cotton, Pigs, Rice, Spices, Wetland folk, Mining, Iron working, Beer, Rugs, Coffee, Cocoa.
+	* Unity: 1
+	* Advancement: 13
+	* Isolationism: 1
+	* Independence: 1
+183 Peasants
+52 Craftsmen
+129 Workers
+50 Nomads
+Generally Hot wet swamp
+Temp: 8.38, Prec: 9.62, Fields: 4.25, Woods: 9.62, Hills: 1.62, Mountains: 1.62, Deserts: 0.0, Wetlands: 6.25
+Market:
+	* Food: -140
+	* TradeGoods: -39
+	* LuxuryGoods: -62
+	* Iron: 25
+	* Textiles: -60
+	* Wood: 580
+	* Equipment: 210
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 100
+	* PreciousMaterials: 0
+
+Buildings:
+   	* Brewery: 12
+   	* Chicken farm: 10
+   	* Cotton Farm: 7
+   	* Blacksmith: 2
+   	* Iron Mine: 3
+   	* Stone Mine: 10
+   	* Pig farm: 5
+   	* Rice Farm: 6
+   	* Rug Maker: 9
+   	* Pepper farm: 17
+   	* Wetland foragers: 50
+   	* Leather Tanner: 7
+   	* Potter: 19
+   	* Weaver: 3
+   	* Cocoa farm: 2
+   	* Nomadic Woodcutter: 90
+
+----------------------------------------------------------------------------------------------------
+Kauravan: 
+8 Settled regions.
+Traits: Chickens, Construction, Cotton, Elephant taming, Fishing, Horses, Llamas, Mining, Nobility, Pigs, Rice, Ship Building, Spices, Trading, Jewelry, Iron working, Communal Gathering, Glass, Prostitution, Public Bathing, Rugs, Shoes, Trading, Coffee, Cocoa.
+	* Unity: 4
+	* Advancement: 34
+	* Isolationism: -6
+	* Independence: 0
+479 Peasants
+111 Workers
+134 Craftsmen
+Generally Warm wet forest
+Temp: 7.88, Prec: 8.5, Fields: 10.88, Woods: 8.5, Hills: 3.12, Mountains: 1.38, Deserts: 0.0, Wetlands: 3.38
+Market:
+	* Food: 43
+	* TradeGoods: 172
+	* LuxuryGoods: 360
+	* Iron: -155
+	* Textiles: -30
+	* Wood: 105
+	* Equipment: 1040
+	* Horses: 80
+	* Camels: 0
+	* Elephants: 11
+	* Stone: 60
+	* PreciousMaterials: 65
+
+Buildings:
+   	* Chicken farm: 18
+   	* Wood cutter: 39
+   	* Cotton Farm: 19
+   	* Elephant tamer: 11
+   	* Fishing Warf: 19
+   	* Glass maker: 19
+   	* Horse Herd: 4
+   	* Blacksmith: 20
+   	* Jeweler: 14
+   	* Iron Mine: 3
+   	* Silver Mine: 2
+   	* Stone Mine: 6
+   	* Pig farm: 14
+   	* Rice Farm: 14
+   	* Rug Maker: 7
+   	* Cobbler: 14
+   	* Pepper farm: 26
+   	* Leather Tanner: 10
+   	* Potter: 50
+   	* Cocoa farm: 13
+   	* Coffee farm: 4
+
+----------------------------------------------------------------------------------------------------
+Kazar: 
+13 Nomadic regions.
+Traits: Camels, Desert folk, Sorghum, Mining, Jewelry, Iron working, Beer, Candles, Rugs, Shoes.
+	* Unity: 1
+	* Advancement: 10
+	* Isolationism: 1
+	* Independence: 1
+155 Workers
+145 Nomads
+381 Peasants
+119 Craftsmen
+Generally Warm dry desert
+Temp: 7.54, Prec: 2.0, Fields: 5.92, Woods: 2.0, Hills: 2.85, Mountains: 3.54, Deserts: 11.15, Wetlands: 0.23
+Market:
+	* Food: 146
+	* TradeGoods: 6
+	* LuxuryGoods: 124
+	* Iron: 15
+	* Textiles: -450
+	* Wood: -360
+	* Equipment: 230
+	* Horses: 0
+	* Camels: 700
+	* Elephants: 0
+	* Stone: 220
+	* PreciousMaterials: -80
+
+Buildings:
+   	* Brewery: 14
+   	* Camel herd: 35
+   	* Candlemaker: 5
+   	* Desert foragers: 145
+   	* Jeweler: 23
+   	* Gold Mine: 4
+   	* Iron Mine: 1
+   	* Salt Mine: 17
+   	* Silver Mine: 1
+   	* Gemstone Mine: 1
+   	* Stone Mine: 22
+   	* Rug Maker: 22
+   	* Cobbler: 23
+   	* Sorghum Farm: 69
+   	* Potter: 32
+   	* Nomadic Woodcutter: 17
+
+----------------------------------------------------------------------------------------------------
+Mearhan: 
+13 Nomadic regions.
+Traits: Corn, Cow, Goats, Horses, Plains folk, Sheep, Mining, Jewelry, Iron working, Beer, Shoes.
+	* Unity: 1
+	* Advancement: 11
+	* Isolationism: 1
+	* Independence: 1
+589 Peasants
+191 Craftsmen
+28 Workers
+43 Nomads
+Generally Temperate dry flatland
+Temp: 4.08, Prec: 1.92, Fields: 16.23, Woods: 1.92, Hills: 1.15, Mountains: 0.23, Deserts: 5.31, Wetlands: 0.62
+Market:
+	* Food: 604
+	* TradeGoods: 755
+	* LuxuryGoods: -210
+	* Iron: -10
+	* Textiles: -165
+	* Wood: -325
+	* Equipment: 795
+	* Horses: 740
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 30
+	* PreciousMaterials: -600
+
+Buildings:
+   	* Brewery: 13
+   	* Corn Farm: 40
+   	* Cow Herd: 14
+   	* Goat Herd: 92
+   	* Horse Herd: 37
+   	* Blacksmith: 1
+   	* Jeweler: 60
+   	* Stone Mine: 3
+   	* Plains hunters: 43
+   	* Cobbler: 64
+   	* Leather Tanner: 6
+   	* Potter: 41
+   	* Weaver: 6
+   	* Nomadic Woodcutter: 19
+
+----------------------------------------------------------------------------------------------------
+Midani: 
+2 Settled regions.
+Traits: Chickens, Construction, Cotton, Cow, Elephant taming, Fishing, Horses, Mining, Nobility, Pigs, Rice, Spices, Tobacco, Trading, Wine, Masonry, Iron working, Beer, Communal Gathering, Glass, Prostitution, Rugs, Shoes, Trading, Coffee, Cocoa.
+	* Unity: 3
+	* Advancement: 34
+	* Isolationism: -6
+	* Independence: 0
+117 Peasants
+18 Craftsmen
+27 Workers
+Generally Warm wet flatland
+Temp: 6.5, Prec: 7.0, Fields: 11.0, Woods: 7.0, Hills: 3.5, Mountains: 1.5, Deserts: 1.5, Wetlands: 2.5
+Market:
+	* Food: 3
+	* TradeGoods: -29
+	* LuxuryGoods: 26
+	* Iron: -15
+	* Textiles: 15
+	* Wood: 105
+	* Equipment: 175
+	* Horses: 20
+	* Camels: 0
+	* Elephants: 1
+	* Stone: 20
+	* PreciousMaterials: 15
+
+Buildings:
+   	* Brewery: 4
+   	* Chicken farm: 4
+   	* Wood cutter: 9
+   	* Cotton Farm: 3
+   	* Cow Herd: 2
+   	* Elephant tamer: 1
+   	* Fishing Warf: 3
+   	* Glass maker: 1
+   	* Horse Herd: 1
+   	* Blacksmith: 3
+   	* Iron Mine: 1
+   	* Stone Mine: 2
+   	* Pig farm: 3
+   	* Rice Farm: 3
+   	* Cobbler: 3
+   	* Pepper farm: 5
+   	* Tobacco Farm: 2
+   	* Vineyard: 2
+   	* Leather Tanner: 2
+   	* Potter: 5
+   	* Cocoa farm: 3
+   	* Coffee farm: 1
+
+----------------------------------------------------------------------------------------------------
+Nori: 
+5 Nomadic regions.
+Traits: Forest folk, Goats, Linen, Sheep, Wheat, Mining, Iron working, Beer.
+	* Unity: 1
+	* Advancement: 8
+	* Isolationism: 1
+	* Independence: 1
+133 Peasants
+44 Craftsmen
+76 Workers
+24 Nomads
+Generally Cold highlands
+Temp: 3.6, Prec: 4.4, Fields: 2.4, Woods: 4.4, Hills: 4.8, Mountains: 3.2, Deserts: 2.4, Wetlands: 1.8
+Market:
+	* Food: -37
+	* TradeGoods: 179
+	* LuxuryGoods: -358
+	* Iron: 15
+	* Textiles: 5
+	* Wood: -10
+	* Equipment: 300
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 110
+	* PreciousMaterials: 90
+
+Buildings:
+   	* Forest hunters: 24
+   	* Goat Herd: 11
+   	* Flax Farm: 10
+   	* Gold Mine: 2
+   	* Iron Mine: 1
+   	* Silver Mine: 2
+   	* Stone Mine: 11
+   	* Wheat Farm: 15
+   	* Leather Tanner: 15
+   	* Potter: 19
+   	* Weaver: 10
+   	* Nomadic Woodcutter: 28
+
+----------------------------------------------------------------------------------------------------
+Northern Kai: 
+12 Settled regions.
+Traits: Construction, Corn, Cotton, Cow, Fishing, Horses, Linen, Mining, Nobility, Pigs, Rice, Sheep, Ship Building, Sorghum, Tobacco, Trading, Wheat, Wine, Jewelry, Iron working, Beer, Communal Gathering, Glass, Prostitution, Public Bathing, Shoes, Silk, Trading.
+	* Unity: 4
+	* Advancement: 36
+	* Isolationism: -6
+	* Independence: 0
+662 Peasants
+188 Craftsmen
+160 Workers
+Generally Temperate flatland
+Temp: 5.42, Prec: 4.25, Fields: 11.42, Woods: 4.25, Hills: 3.5, Mountains: 1.83, Deserts: 2.58, Wetlands: 1.75
+Market:
+	* Food: -113
+	* TradeGoods: -218
+	* LuxuryGoods: 643
+	* Iron: -80
+	* Textiles: 290
+	* Wood: 515
+	* Equipment: 1435
+	* Horses: 360
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 120
+	* PreciousMaterials: 35
+
+Buildings:
+   	* Brewery: 7
+   	* Wood cutter: 47
+   	* Corn Farm: 29
+   	* Cotton Farm: 1
+   	* Cow Herd: 33
+   	* Fishing Warf: 13
+   	* Glass maker: 7
+   	* Horse Herd: 18
+   	* Blacksmith: 17
+   	* Jeweler: 1
+   	* Flax Farm: 17
+   	* Gold Mine: 1
+   	* Iron Mine: 6
+   	* Salt Mine: 2
+   	* Silver Mine: 1
+   	* Stone Mine: 12
+   	* Pig farm: 8
+   	* Rice Farm: 1
+   	* Sheep Herd: 21
+   	* Cobbler: 32
+   	* Silk Weavers: 69
+   	* Sorghum Farm: 3
+   	* Tobacco Farm: 12
+   	* Wheat Farm: 11
+   	* Vineyard: 25
+   	* Leather Tanner: 26
+   	* Potter: 24
+   	* Weaver: 5
+
+----------------------------------------------------------------------------------------------------
+Pathlavan: 
+6 Settled regions.
+Traits: Chickens, Construction, Cotton, Elephant taming, Fishing, Mining, Nobility, Pigs, Rice, Ship Building, Spices, Trading, Masonry, Iron working, Beer, Communal Gathering, Glass, Prostitution, Rugs, Shoes, Trading, Coffee, Cocoa.
+	* Unity: 3
+	* Advancement: 32
+	* Isolationism: -6
+	* Independence: 0
+335 Peasants
+77 Workers
+68 Craftsmen
+Generally Warm wet forest
+Temp: 7.33, Prec: 8.5, Fields: 11.17, Woods: 8.5, Hills: 2.0, Mountains: 0.83, Deserts: 0.0, Wetlands: 4.17
+Market:
+	* Food: 17
+	* TradeGoods: -5
+	* LuxuryGoods: 108
+	* Iron: -30
+	* Textiles: 10
+	* Wood: 350
+	* Equipment: 410
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 10
+	* Stone: 30
+	* PreciousMaterials: 150
+
+Buildings:
+   	* Brewery: 14
+   	* Chicken farm: 12
+   	* Wood cutter: 31
+   	* Cotton Farm: 12
+   	* Elephant tamer: 10
+   	* Fishing Warf: 10
+   	* Glass maker: 6
+   	* Blacksmith: 6
+   	* Iron Mine: 2
+   	* Stone Mine: 3
+   	* Pig farm: 11
+   	* Rice Farm: 11
+   	* Rug Maker: 7
+   	* Cobbler: 6
+   	* Pepper farm: 19
+   	* Leather Tanner: 7
+   	* Potter: 22
+   	* Cocoa farm: 9
+   	* Coffee farm: 5
+
+----------------------------------------------------------------------------------------------------
+Rodan: 
+8 Settled regions.
+Traits: Construction, Corn, Fishing, Goats, Horses, Linen, Mining, Nobility, Potatoes, Reindeer, Ship Building, Trading, Wheat, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 31
+	* Isolationism: -6
+	* Independence: 0
+422 Peasants
+119 Craftsmen
+135 Workers
+Generally Cold wet forest
+Temp: 2.25, Prec: 6.38, Fields: 10.62, Woods: 6.38, Hills: 3.88, Mountains: 1.62, Deserts: 1.0, Wetlands: 1.88
+Market:
+	* Food: 274
+	* TradeGoods: -6
+	* LuxuryGoods: -242
+	* Iron: -25
+	* Textiles: 240
+	* Wood: 495
+	* Equipment: 690
+	* Horses: 280
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 60
+	* PreciousMaterials: -50
+
+Buildings:
+   	* Brewery: 4
+   	* Candlemaker: 3
+   	* Wood cutter: 48
+   	* Corn Farm: 2
+   	* Fishing Warf: 14
+   	* Glass maker: 39
+   	* Goat Herd: 10
+   	* Horse Herd: 14
+   	* Blacksmith: 10
+   	* Jeweler: 9
+   	* Flax Farm: 13
+   	* Iron Mine: 5
+   	* Silver Mine: 2
+   	* Stone Mine: 6
+   	* Potato Farm: 25
+   	* Reindeer herd: 46
+   	* Cobbler: 14
+   	* Wheat Farm: 6
+   	* Leather Tanner: 10
+   	* Potter: 29
+   	* Weaver: 1
+
+----------------------------------------------------------------------------------------------------
+Runic: 
+2 Nomadic regions.
+Traits: Wine, Llamas, Mountain folk, Sorghum, Mining, Iron working, Beer.
+	* Unity: 1
+	* Advancement: 7
+	* Isolationism: 1
+	* Independence: 1
+81 Peasants
+4 Craftsmen
+18 Workers
+11 Nomads
+Generally Warm highlands
+Temp: 6.0, Prec: 4.5, Fields: 5.0, Woods: 4.5, Hills: 7.5, Mountains: 5.5, Deserts: 2.5, Wetlands: 0.0
+Market:
+	* Food: -43
+	* TradeGoods: -153
+	* LuxuryGoods: 175
+	* Iron: 15
+	* Textiles: 75
+	* Wood: 65
+	* Equipment: 20
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 0
+	* PreciousMaterials: 55
+
+Buildings:
+   	* Llama herd: 7
+   	* Gold Mine: 1
+   	* Iron Mine: 1
+   	* Gemstone Mine: 1
+   	* Mountain foragers: 8
+   	* Highland foragers: 3
+   	* Vineyard: 15
+   	* Leather Tanner: 1
+   	* Potter: 1
+   	* Weaver: 2
+   	* Nomadic Woodcutter: 9
+
+----------------------------------------------------------------------------------------------------
+Shevani: 
+8 Nomadic regions.
+Traits: Chickens, Cotton, Cow, Elephant taming, Pigs, Rice, Sheep, Spices, Tobacco, Wetland folk, Mining, Iron working, Beer, Rugs, Shoes, Coffee, Cocoa.
+	* Unity: 1
+	* Advancement: 18
+	* Isolationism: 1
+	* Independence: 1
+320 Peasants
+97 Craftsmen
+52 Workers
+33 Nomads
+Generally Warm wet forest
+Temp: 6.38, Prec: 6.25, Fields: 9.75, Woods: 6.25, Hills: 1.25, Mountains: 0.25, Deserts: 1.12, Wetlands: 4.12
+Market:
+	* Food: 11
+	* TradeGoods: 533
+	* LuxuryGoods: 55
+	* Iron: -10
+	* Textiles: -40
+	* Wood: 110
+	* Equipment: 515
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 22
+	* Stone: 20
+	* PreciousMaterials: 330
+
+Buildings:
+   	* Brewery: 8
+   	* Chicken farm: 6
+   	* Cotton Farm: 4
+   	* Cow Herd: 29
+   	* Elephant tamer: 22
+   	* Blacksmith: 1
+   	* Stone Mine: 2
+   	* Pig farm: 10
+   	* Rice Farm: 2
+   	* Rug Maker: 21
+   	* Sheep Herd: 15
+   	* Cobbler: 28
+   	* Pepper farm: 7
+   	* Tobacco Farm: 9
+   	* Wetland foragers: 33
+   	* Leather Tanner: 10
+   	* Potter: 25
+   	* Weaver: 4
+   	* Cocoa farm: 1
+   	* Coffee farm: 5
+   	* Nomadic Woodcutter: 46
+
+----------------------------------------------------------------------------------------------------
+Skaelian: 
+7 Settled regions.
+Traits: Construction, Cow, Fishing, Goats, Horses, Linen, Mining, Nobility, Potatoes, Reindeer, Ship Building, Trading, Wheat, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 31
+	* Isolationism: -6
+	* Independence: 0
+364 Peasants
+72 Craftsmen
+117 Workers
+Generally Cold wet forest
+Temp: 2.57, Prec: 7.14, Fields: 12.29, Woods: 7.14, Hills: 2.29, Mountains: 0.71, Deserts: 0.71, Wetlands: 1.71
+Market:
+	* Food: 302
+	* TradeGoods: -195
+	* LuxuryGoods: -321
+	* Iron: 0
+	* Textiles: 360
+	* Wood: 820
+	* Equipment: 375
+	* Horses: 180
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 20
+	* PreciousMaterials: 0
+
+Buildings:
+   	* Brewery: 1
+   	* Wood cutter: 51
+   	* Cow Herd: 4
+   	* Fishing Warf: 8
+   	* Glass maker: 24
+   	* Goat Herd: 2
+   	* Horse Herd: 9
+   	* Blacksmith: 3
+   	* Jeweler: 2
+   	* Flax Farm: 14
+   	* Iron Mine: 2
+   	* Silver Mine: 1
+   	* Stone Mine: 2
+   	* Potato Farm: 22
+   	* Reindeer herd: 45
+   	* Cobbler: 9
+   	* Wheat Farm: 6
+   	* Leather Tanner: 9
+   	* Potter: 24
+
+----------------------------------------------------------------------------------------------------
+Southern Kai: 
+8 Settled regions.
+Traits: Camels, Chickens, Construction, Corn, Cotton, Cow, Elephant taming, Fishing, Horses, Mining, Nobility, Pigs, Rice, Sheep, Ship Building, Sorghum, Spices, Tobacco, Trading, Wine, Jewelry, Iron working, Beer, Communal Gathering, Glass, Prostitution, Public Bathing, Shoes, Silk, Trading.
+	* Unity: 4
+	* Advancement: 39
+	* Isolationism: -6
+	* Independence: 0
+464 Peasants
+124 Craftsmen
+94 Workers
+Generally Temperate flatland
+Temp: 5.88, Prec: 5.38, Fields: 12.62, Woods: 5.38, Hills: 2.75, Mountains: 1.5, Deserts: 2.0, Wetlands: 2.38
+Market:
+	* Food: 37
+	* TradeGoods: -62
+	* LuxuryGoods: 407
+	* Iron: -75
+	* Textiles: 135
+	* Wood: 210
+	* Equipment: 930
+	* Horses: 280
+	* Camels: 80
+	* Elephants: 1
+	* Stone: 70
+	* PreciousMaterials: 50
+
+Buildings:
+   	* Brewery: 10
+   	* Camel herd: 4
+   	* Chicken farm: 7
+   	* Wood cutter: 29
+   	* Corn Farm: 11
+   	* Cotton Farm: 6
+   	* Cow Herd: 19
+   	* Elephant tamer: 1
+   	* Fishing Warf: 15
+   	* Glass maker: 3
+   	* Horse Herd: 14
+   	* Blacksmith: 12
+   	* Jeweler: 1
+   	* Gold Mine: 1
+   	* Iron Mine: 3
+   	* Silver Mine: 1
+   	* Stone Mine: 7
+   	* Pig farm: 7
+   	* Rice Farm: 5
+   	* Sheep Herd: 15
+   	* Cobbler: 17
+   	* Silk Weavers: 42
+   	* Sorghum Farm: 4
+   	* Pepper farm: 10
+   	* Tobacco Farm: 9
+   	* Vineyard: 12
+   	* Leather Tanner: 17
+   	* Potter: 22
+
+----------------------------------------------------------------------------------------------------
+Svaldic: 
+10 Settled regions.
+Traits: Construction, Corn, Cow, Fishing, Goats, Horses, Linen, Mining, Nobility, Pigs, Potatoes, Reindeer, Sheep, Ship Building, Trading, Wheat, Wine, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 35
+	* Isolationism: -6
+	* Independence: 0
+494 Peasants
+118 Craftsmen
+168 Workers
+Generally Temperate forest
+Temp: 4.2, Prec: 4.8, Fields: 10.5, Woods: 4.8, Hills: 3.3, Mountains: 1.5, Deserts: 1.9, Wetlands: 1.6
+Market:
+	* Food: 42
+	* TradeGoods: -331
+	* LuxuryGoods: -262
+	* Iron: 55
+	* Textiles: 420
+	* Wood: 835
+	* Equipment: 685
+	* Horses: 340
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 50
+	* PreciousMaterials: 10
+
+Buildings:
+   	* Brewery: 2
+   	* Candlemaker: 1
+   	* Wood cutter: 61
+   	* Corn Farm: 19
+   	* Cow Herd: 27
+   	* Fishing Warf: 5
+   	* Glass maker: 35
+   	* Goat Herd: 8
+   	* Horse Herd: 17
+   	* Blacksmith: 5
+   	* Jeweler: 6
+   	* Flax Farm: 19
+   	* Gold Mine: 2
+   	* Iron Mine: 7
+   	* Silver Mine: 1
+   	* Stone Mine: 5
+   	* Pig farm: 1
+   	* Potato Farm: 10
+   	* Reindeer herd: 11
+   	* Sheep Herd: 4
+   	* Cobbler: 19
+   	* Wheat Farm: 13
+   	* Vineyard: 9
+   	* Leather Tanner: 16
+   	* Potter: 33
+   	* Weaver: 1
+   	* Nomadic Woodcutter: 1
+
+----------------------------------------------------------------------------------------------------
+Ulgar: 
+10 Nomadic regions.
+Traits: Camels, Desert folk, Mining, Jewelry, Iron working, Beer, Shoes.
+	* Unity: 1
+	* Advancement: 7
+	* Isolationism: 1
+	* Independence: 1
+162 Peasants
+137 Nomads
+61 Workers
+5 Craftsmen
+Generally Warm dry desert
+Temp: 7.2, Prec: 2.0, Fields: 3.8, Woods: 2.0, Hills: 3.4, Mountains: 1.4, Deserts: 13.7, Wetlands: 0.8
+Market:
+	* Food: -187
+	* TradeGoods: -462
+	* LuxuryGoods: -230
+	* Iron: 15
+	* Textiles: 0
+	* Wood: 120
+	* Equipment: 0
+	* Horses: 0
+	* Camels: 1080
+	* Elephants: 0
+	* Stone: 60
+	* PreciousMaterials: 20
+
+Buildings:
+   	* Camel herd: 54
+   	* Desert foragers: 137
+   	* Jeweler: 2
+   	* Iron Mine: 1
+   	* Salt Mine: 5
+   	* Silver Mine: 2
+   	* Stone Mine: 6
+   	* Potter: 3
+   	* Nomadic Woodcutter: 19
+
+----------------------------------------------------------------------------------------------------
+Velitian: 
+7 Settled regions.
+Traits: Construction, Corn, Cow, Goats, Mountain folk, Horses, Linen, Mining, Nobility, Pigs, Potatoes, Sheep, Sorghum, Trading, Wheat, Wine, Masonry, Jewelry, Iron working, Communal Gathering, Glass, Prostitution, Public Bathing, Rugs, Shoes, Trading.
+	* Unity: 5
+	* Advancement: 33
+	* Isolationism: -5
+	* Independence: 1
+374 Peasants
+72 Craftsmen
+103 Workers
+6 Nomads
+Generally Temperate highlands
+Temp: 4.86, Prec: 4.43, Fields: 10.14, Woods: 4.43, Hills: 5.0, Mountains: 3.57, Deserts: 1.43, Wetlands: 1.57
+Market:
+	* Food: 117
+	* TradeGoods: -293
+	* LuxuryGoods: -108
+	* Iron: 25
+	* Textiles: 225
+	* Wood: 205
+	* Equipment: 645
+	* Horses: 220
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 40
+	* PreciousMaterials: 75
+
+Buildings:
+   	* Wood cutter: 23
+   	* Corn Farm: 15
+   	* Cow Herd: 23
+   	* Glass maker: 6
+   	* Goat Herd: 4
+   	* Horse Herd: 11
+   	* Blacksmith: 11
+   	* Jeweler: 6
+   	* Flax Farm: 12
+   	* Gold Mine: 3
+   	* Iron Mine: 9
+   	* Silver Mine: 3
+   	* Stone Mine: 4
+   	* Mountain foragers: 6
+   	* Pig farm: 2
+   	* Potato Farm: 4
+   	* Rug Maker: 13
+   	* Sheep Herd: 10
+   	* Cobbler: 16
+   	* Sorghum Farm: 3
+   	* Wheat Farm: 12
+   	* Vineyard: 10
+   	* Leather Tanner: 5
+   	* Potter: 13
+   	* Weaver: 2
+
+----------------------------------------------------------------------------------------------------
+Walder: 
+13 Nomadic regions.
+Traits: Forest folk, Reindeer, Mining, Jewelry, Iron working, Beer, Candles, Shoes.
+	* Unity: 1
+	* Advancement: 8
+	* Isolationism: 1
+	* Independence: 1
+276 Peasants
+167 Craftsmen
+198 Workers
+87 Nomads
+Generally Cold wet forest
+Temp: 2.46, Prec: 7.38, Fields: 6.38, Woods: 7.38, Hills: 1.92, Mountains: 3.38, Deserts: 0.0, Wetlands: 1.54
+Market:
+	* Food: 45
+	* TradeGoods: 973
+	* LuxuryGoods: -41
+	* Iron: 15
+	* Textiles: -75
+	* Wood: -5
+	* Equipment: 695
+	* Horses: 0
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 220
+	* PreciousMaterials: -195
+
+Buildings:
+   	* Brewery: 11
+   	* Candlemaker: 1
+   	* Forest hunters: 87
+   	* Blacksmith: 3
+   	* Jeweler: 57
+   	* Gold Mine: 7
+   	* Iron Mine: 3
+   	* Jade Mine: 10
+   	* Silver Mine: 1
+   	* Gemstone Mine: 1
+   	* Stone Mine: 22
+   	* Reindeer herd: 92
+   	* Cobbler: 43
+   	* Leather Tanner: 8
+   	* Potter: 43
+   	* Weaver: 1
+   	* Nomadic Woodcutter: 66
+
+----------------------------------------------------------------------------------------------------
+West Tauran: 
+11 Settled regions.
+Traits: Construction, Corn, Cow, Fishing, Goats, Horses, Linen, Mining, Nobility, Potatoes, Sheep, Ship Building, Sorghum, Trading, Wheat, Wine, Masonry, Jewelry, Iron working, Beer, Candles, Communal Gathering, Glass, Prostitution, Public Bathing, Rugs, Shoes, Trading.
+	* Unity: 4
+	* Advancement: 36
+	* Isolationism: -6
+	* Independence: 0
+596 Peasants
+136 Craftsmen
+142 Workers
+Generally Temperate flatland
+Temp: 4.64, Prec: 3.91, Fields: 11.73, Woods: 3.91, Hills: 3.27, Mountains: 1.45, Deserts: 3.0, Wetlands: 1.27
+Market:
+	* Food: 136
+	* TradeGoods: -276
+	* LuxuryGoods: -228
+	* Iron: -20
+	* Textiles: 335
+	* Wood: 450
+	* Equipment: 805
+	* Horses: 560
+	* Camels: 0
+	* Elephants: 0
+	* Stone: 30
+	* PreciousMaterials: 80
+
+Buildings:
+   	* Brewery: 5
+   	* Candlemaker: 2
+   	* Wood cutter: 47
+   	* Corn Farm: 34
+   	* Cow Herd: 36
+   	* Fishing Warf: 7
+   	* Glass maker: 21
+   	* Goat Herd: 11
+   	* Horse Herd: 28
+   	* Blacksmith: 11
+   	* Jeweler: 5
+   	* Flax Farm: 25
+   	* Gold Mine: 1
+   	* Iron Mine: 6
+   	* Jade Mine: 3
+   	* Silver Mine: 3
+   	* Stone Mine: 3
+   	* Potato Farm: 10
+   	* Rug Maker: 26
+   	* Sheep Herd: 3
+   	* Cobbler: 18
+   	* Sorghum Farm: 4
+   	* Wheat Farm: 10
+   	* Vineyard: 4
+   	* Leather Tanner: 12
+   	* Potter: 35
+   	* Weaver: 1
+

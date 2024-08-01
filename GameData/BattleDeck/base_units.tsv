@@ -1,0 +1,45 @@
+Unit	Melee Weapon	Ranged Weapon	Shield	Body Armor	Helmet	Mount	Experience	Recruitment	Formation Card
+Militia Spearmen	Spear	None	Large shield	None	Iron helm	None	Trained	Militia	advance
+Militia Crossbowmen	None	Crossbow	None	None	Iron helm	None	Trained	Militia	volley
+Militia Archers	None	Bow	None	None	Iron helm	None	Trained	Militia	volley
+Militia Skirmishers	None	Javelin	Small shield	None	None	None	Trained	Militia	retreat
+Militia Cavalry	Lance	None	Large shield	None	Iron helm	Horse	Trained	Militia	pursue
+Peasants	Hand axe	None	None	None	None	None	Untrained	Conscript	
+Findaric Knights	Lance	None	Large shield	Brigandine	Great helm	War Horse	Veteran	Professional	outflank
+Andaric Knights	Lance	None	Large shield	Plate armor	Great helm	War Horse	Veteran	Professional	thunderous_charge
+Men at arms	Lance	None	Large shield	Chain-mail	Iron helm	War Horse	Trained	Volunteer	pursue
+Levy Halberdiers	Halberd	None	None	Chain-mail	Iron helm	None	Trained	Militia	push
+Alyrian Cavalry	Sword	Javelin	Small shield	Chain-mail	Iron helm	Horse	Veteran	Volunteer	hit_and_run
+Aethunding Pikemen	Pike	None	Small shield	Padded armor	Iron helm	None	Veteran	Volunteer	schiltrom
+Aethunding Noble Swordsmen	Great Sword	Throwing axe	None	Chain-mail	Great helm	None	Elite	Volunteer	relentless_advance
+Aethunding Shieldmaidens	Spear	None	Large shield	Chain-mail	Iron helm	None	Veteran	Volunteer	shieldwall
+Royal Arani Guard	Glaive	None	None	Lamellar armor	Great helm	None	Elite	Professional	oblique_order
+Arani Cataphracts	Lance	Composite bow	None	Plate armor	Great helm	War Horse	Veteran	Professional	cycle_charge
+Derjian Camel Raiders	None	Composite bow	None	None	None	Camel	Trained	Militia	retreat
+Draekoni Warriors	Hand axe	Javelin	Large shield	None	None	None	Veteran	Professional	war_cry
+Mearhan Horse Archers	None	Composite bow	None	Padded armor	None	Horse	Trained	Militia	retreat
+Mearhan Lancers	Lance	None	Small shield	Lamellar armor	Iron helm	Horse	Trained	Volunteer	charge
+Velitian Infantry	Sword	Javelin	Large shield	Chain-mail	Iron helm	None	Veteran	Volunteer	testudo
+Praetorian Guard	Spear	None	Large shield	Chain-mail	Iron helm	None	Elite	Professional	phalanx
+Haelan Crossbowmen	None	Heavy Crossbow	Pavise shield	Chain-mail	Iron helm	None	Veteran	Volunteer	supporting_fire
+Moraginian Infantry	Halberd	None	None	Brigandine	Iron helm	None	Veteran	Professional	spearwall
+War Elephants	Lance	Javelin	None	Padded armor	None	Elephant	Trained	Professional	charge
+Ulgar Chariots	Lance	Composite bow	None	Padded armor	None	Light Chariot	Veteran	Volunteer	feigned_retreat
+Kazar Raiders	None	Javelin	Small shield	None	None	Horse	Trained	Volunteer	skirmish
+Illeni Archers	Hand axe	Bow	None	Padded armor	Iron helm	None	Trained	Conscript	attack
+Mori Cavalry	Lance	Composite bow	None	Lamellar armor	Iron helm	Horse	Veteran	Volunteer	hit_and_run
+Mori Infantry	Mace	None	Large shield	Lamellar armor	Iron helm	None	Trained	Professional	advance
+Rodan Huscarls	Great Axe	None	Large shield	Brigandine	Great helm	None	Veteran	Professional	relentless_advance
+Nordic Thegns	Sword	Throwing axe	Large shield	Brigandine	Iron helm	None	Veteran	Volunteer	shieldwall
+Nordic Raiders	Hand axe	None	Large shield	Chain-mail	Iron helm	None	Trained	Volunteer	advance
+Nordic Archers	Hand axe	Composite bow	None	Chain-mail	Iron helm	None	Trained	Volunteer	volley
+Svaldic Rangers	Sword	Bow	None	Chain-mail	Iron helm	None	Veteran	Volunteer	ambush
+Brythonic Guard	Spear	None	Large shield	Lamellar armor	None	None	Elite	Professional	phalanx
+War Brides	Sword	None	Hand axe	None	None	None	Veteran	Volunteer	war_cry
+Kalian Swordsmen	Sword	None	Large shield	Lamellar armor	Iron helm	None	Trained	Militia	advance
+Haethic Spearmen	Spear	None	Large shield	Chain-mail	Iron helm	None	Trained	Volunteer	advance
+Gothic Nobles	Pole Axe	None	None	Plate armor	Great helm	None	Elite	Professional	relentless_advance
+Gothic Longbowmen	Sword	Bow	None	Lamellar armor	Iron helm	None	Veteran	Professional	supporting_fire
+Nori Berserkers	Great Axe	Throwing axe	None	None	None	None	Elite	Professional	war_cry
+Heruli Lion Hunters	Great Axe	None	None	Chain-mail	Iron helm	None	Elite	Volunteer	relentless_advance
+Kauravan Warriors	Great Sword	None	None	Lamellar armor	Iron helm	None	Elite	Professional	oblique_order
