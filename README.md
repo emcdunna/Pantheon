@@ -21,11 +21,11 @@ If either condition is satisfied then the entire army runs away and a Victory/De
 ## Code Structure
 
 ### Suggested areas to review
-The primary gameplay loop can be found in: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/_MB_BattleRunner.cs
-Player input is handled in: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/Player.cs
-A deck of battle cards is controlled by: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/Deck.cs
-The animation states and movements of units is controlled by: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/UnitAnimation.cs
-Here is how I handled Card UI hints: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/_MB_CardUI.cs
+* The primary gameplay loop can be found in: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/_MB_BattleRunner.cs
+* Player input is handled in: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/Player.cs
+* A deck of battle cards is controlled by: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/Deck.cs
+* The animation states and movements of units is controlled by: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/UnitAnimation.cs
+* Here is how I handled Card UI hints: https://github.com/emcdunna/Pantheon/blob/main/Scripts/BattleDeck/_MB_CardUI.cs
 
 ### Architecture
 The game uses a Model/View/Controller (MVC) architecture:
